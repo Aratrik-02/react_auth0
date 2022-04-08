@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_auth0/static/css/main.0634ea67.css",
+    "main.js": "/react_auth0/static/js/main.0ef885ef.js",
+    "static/media/dark.jpg": "/react_auth0/static/media/dark.df1a8716926c06592cd7.jpg",
+    "index.html": "/react_auth0/index.html",
+    "main.0634ea67.css.map": "/react_auth0/static/css/main.0634ea67.css.map",
+    "main.0ef885ef.js.map": "/react_auth0/static/js/main.0ef885ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0634ea67.css",
+    "static/js/main.0ef885ef.js"
+  ]
+}
